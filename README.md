@@ -169,11 +169,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Team
 
-- [Your Name] - Project Lead
-- [Team Member 1] - Frontend Developer
-- [Team Member 2] - Backend Developer
-- [Team Member 3] - DevOps Engineer
-
-## 📞 Support
-
-For support, email [your-email@example.com] or join our Slack channel. 
+- Lohit K. - Full Stack Developer 
